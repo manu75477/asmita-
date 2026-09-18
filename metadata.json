@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Wish",
+  "description": "Birthday celebration website and app for best friend Asmita Yadav featuring Asoj 7 countdown, virtual cake candle blowing, card designer, memories gallery, and interactive wishes wall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
